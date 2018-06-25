@@ -1,0 +1,8 @@
+DemoMavenAutomationProject.iml
+Selenium-Framework/target/
+/.settings/
+/.classpath
+/.project
+Selenium-Framework/output/**/**/**
+.idea/
+Selenium-Framework/**/reports/
